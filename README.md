@@ -1,9 +1,9 @@
 
 <div align="center">
-<a href="">
+<a href="https://github.com/TheRustyPickle">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=TheRustyPickle&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true"/>
 </a>
-<a href="">
+<a href="https://github.com/TheRustyPickle">
 <img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRustyPickle&theme=transparent&hide_border=true"/>
 </a>
 </div>
@@ -11,17 +11,17 @@
 <hr />
 
 <div align="center">
-<a href="">
+<a href="https://wakatime.com/@RustyPickle">
 <img  src="https://wakatime.com/badge/user/a56201d4-20a8-4c30-a6d7-2d8bb0e3d23c.svg"/>
 </a>
-<a href="">
+<a href="https://github.com/TheRustyPickle">
 <img  src="https://komarev.com/ghpvc/?username=TheRustyPickle"/>
 </a>
 </div>
-<h2 align="center">Get In Touch</h2>
+<h2 align="center">Find Me At</h2>
 <div align="center">
 <a href="mailto:rusty.pickle94@gmail.com">
-<img src="https://img.shields.io/badge/-rusty.pickle94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-rusty.pickle94-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
   
 <a href="https://t.me/RustyPickle">
