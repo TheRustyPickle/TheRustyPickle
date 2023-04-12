@@ -20,15 +20,15 @@
 </div>
 <h2 align="center">Get In Touch</h2>
 <div align="center">
-<a href="">
-<img src="https://img.shields.io/badge/-rusty.pickle94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rusty.pickle94@gmail.com"/>
+<a href="mailto:rusty.pickle94@gmail.com">
+<img src="https://img.shields.io/badge/-rusty.pickle94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
   
-<a href="">
-<img src="https://img.shields.io/badge/-RustyPickle-28a8e8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustyPickle"/>
+<a href="https://t.me/RustyPickle">
+<img src="https://img.shields.io/badge/-RustyPickle-28a8e8?style=flat-square&logo=Telegram&logoColor=white"/>
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/-RustyPickle-5865f2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/406917444381179905"/>
+<a href="https://discord.com/users/406917444381179905">
+<img src="https://img.shields.io/badge/-RustyPickle-5865f2?style=flat-square&logo=Discord&logoColor=white"/>
 </a>
 </div>
 
